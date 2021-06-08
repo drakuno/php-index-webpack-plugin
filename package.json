@@ -1,0 +1,24 @@
+{
+  "name": "php-index-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Outputs a php file that imports your actual index",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drakuno/php-index-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "php",
+    "index"
+  ],
+  "author": "drakuno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drakuno/php-index-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/drakuno/php-index-webpack-plugin#readme"
+}
